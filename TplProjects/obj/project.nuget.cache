@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "bGcGEkqketXUByQsTVx89gVZ2t/puHV3t+MUcmtC1EjRRDa/isgOtLkawHU/B6NF103o6UWJz3iFHqT4sSPY1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aayush Arya\\source\\repos\\TplProjects\\TplProjects\\TplProjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aayush Arya\\.nuget\\packages\\csvhelper\\15.0.8\\csvhelper.15.0.8.nupkg.sha512",
+    "C:\\Users\\Aayush Arya\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
+    "C:\\Users\\Aayush Arya\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Aayush Arya\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Aayush Arya\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
